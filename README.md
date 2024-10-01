@@ -4,7 +4,7 @@ Hello, my name is Jacob and welcome to my data portfolio. I am passionate about 
 
 I also love running, being outdoors, and playing or watching sports. I enjoy learning new things and taking on new challenges.
 
-See more details about me and my work experience on my LinkedIn page (https://www.linkedin.com/in/jacob-ryan-chase/). Please feel free to connect with me. 
+See more details about me and my work experience on my [LinkedIn page](https://www.linkedin.com/in/jacob-ryan-chase/). Please feel free to connect with me. 
 
 # Programming/Data Experience
 1. 5+ years experience with Python
