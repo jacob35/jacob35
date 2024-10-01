@@ -6,7 +6,7 @@ I also love running, being outdoors, and playing or watching sports. I enjoy lea
 
 See more details about me and my work experience on my [LinkedIn page](https://www.linkedin.com/in/jacob-ryan-chase/). Please feel free to connect with me. 
 
-# Programming/Data Experience
+## Programming/Data Experience
 1. 5+ years experience with Python
 2. 5+ years experience with Excel
 3. 2 years experience with SQL
@@ -14,7 +14,7 @@ See more details about me and my work experience on my [LinkedIn page](https://w
    
 Competencies: Data Analytics, Data Engineering, Business Intelligence, Tableau, PostgresSQL, Amazon Redshift and Athena, Apache Impala, dbt, Jira, Git, Github, SSMS, SQL, ETL, Python, Microsoft Excel, R
 
-# Projects
+## Projects
 1. March Maddness College Basketball Streamlit App With Python
 
 <!--
