@@ -12,7 +12,8 @@ See more details about me and my work experience on my [LinkedIn page](https://w
 3. 2 years experience with SQL 🛢️
 4. 2 years experience with Tableau 📊
    
-Competencies: Data Analytics, Data Engineering, Business Intelligence, Tableau, PostgresSQL, Amazon Redshift and Athena, Apache Impala, dbt, Jira, Git, Github, SSMS, SQL, ETL, Python, Microsoft Excel, R
+Competencies: Data Analytics, Data Engineering, Business Intelligence, SQL, Python, R, Tableau, Excel, Looker, Smartsheet, Google Sheets, Git, GitHub, Jira, dbt, Domino Data Lab, Amazon Redshift and Athena, Postgres, Apache Impala, Microsoft SQL Server, DBeaver, Microsoft Power Automate, and SAP
+
 
 ## Projects
 1. [College Basketball March Madness Streamlit App With Python](https://jacob35.github.io/March-Madness-App/)
