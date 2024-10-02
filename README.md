@@ -18,7 +18,6 @@ Competencies: Data Analytics, Data Engineering, Business Intelligence, Tableau, 
 1. [College Basketball March Madness Streamlit App With Python](https://jacob35.github.io/March-Madness-App/)
    1. Results: An app that analyzes 68 college basketball teams (1,200 rows of data) and empowers bracket selections based on insightful data.
    2. Extract, cleaned, filtered, and joined data with Python pandas library. Utilized rank, concat, range, append, for loops, and nested loops.
-2. Next
 
 <!--
 emoji's
