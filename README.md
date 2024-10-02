@@ -1,4 +1,4 @@
-# Jacob Chase's Data Portfolio
+# Data Portfolio
 
 👋 Hello, my name is Jacob and welcome to my data portfolio! I am passionate about data analytics and using data to drive decisions and change behavior. I am a hard worker and quick learner. I am a strong problem solver, ask smart questions, and communicate well with others. 
 
