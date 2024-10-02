@@ -15,7 +15,10 @@ See more details about me and my work experience on my [LinkedIn page](https://w
 Competencies: Data Analytics, Data Engineering, Business Intelligence, Tableau, PostgresSQL, Amazon Redshift and Athena, Apache Impala, dbt, Jira, Git, Github, SSMS, SQL, ETL, Python, Microsoft Excel, R
 
 ## Projects
-1. March Maddness College Basketball Streamlit App With Python
+1. College Basketball March Madness Streamlit App With Python - [Project Details Page](https://jacob35.github.io/March-Madness-App/)
+   A. Results: An app that analyzes 68 college basketball teams (1,200 rows of data) and empowers bracket selections based on insightful data.
+   B. Extract, cleaned, filtered, and joined data with Python pandas library. Utilized rank, concat, range, append, for loops, and nested loops.
+2. Next
 
 <!--
 emoji's
