@@ -12,7 +12,7 @@ See more details about me and my work experience on my [LinkedIn page](https://w
 3. 2 years experience with SQL 🛢️
 4. 2 years experience with Tableau 📊
    
-**Competencies:** Data Analytics, Data Engineering, Business Intelligence, SQL, Python, R, Tableau, Excel, Looker, Smartsheet, Google Sheets, Quickbase, Git, GitHub, Jira, dbt, Domino Data Lab, Amazon Redshift and Athena, Postgres, Apache Impala, Microsoft SQL Server, DBeaver, Microsoft Power Automate, and SAP
+**Competencies:** Data Analytics, Data Engineering, Business Intelligence, Pricing, Pricing Strategy, SQL, Python, R, Tableau, Excel, Looker, Smartsheet, Google Sheets, Quickbase, Git, GitHub, Jira, dbt, Domino Data Lab, Snowflake, Amazon Redshift and Athena, Postgres, Apache Impala, Microsoft SQL Server, DBeaver, Microsoft Power Automate, and SAP
 
 
 ## Projects
